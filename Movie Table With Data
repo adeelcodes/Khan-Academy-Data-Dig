@@ -112,4 +112,3 @@ INSERT INTO top_movies(rank,title,studio,worldwide,domestic_money,domestic_perce
 INSERT INTO top_movies(rank,title,studio,worldwide,domestic_money,domestic_percent,overseas_money,overseas_percent,year) VALUES ('98','Madagascar: Escape 2 Africa','P/DW','$603.9','$180.0','29.8%','$423.9','70.2%','2008');
 INSERT INTO top_movies(rank,title,studio,worldwide,domestic_money,domestic_percent,overseas_money,overseas_percent,year) VALUES ('99','Casino Royale','Sony','$599.0','$167.4','28.0%','$431.6','72.0%','2006');
 INSERT INTO top_movies(rank,title,studio,worldwide,domestic_money,domestic_percent,overseas_money,overseas_percent,year) VALUES ('100','Tangled','BV','$591.8','$200.8','33.9%','$391.0','66.1%','2010');
-SELECT * FROM top_movies;
